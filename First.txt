@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("Hi Suraje)
 print("Hello")
+=======
+print("Hi Suraj*.")
+>>>>>>> 14e51ead9f18f0ca702ee736577909e1aaea561a
