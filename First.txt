@@ -1,5 +1,5 @@
 
 print("Hi Suraje)
 print("Hello")
-print("Hi Suraj*.")
+print("Hi Suraj)
 
